@@ -1,0 +1,22 @@
+{
+  "name": "tcp-jsonrpc-client",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "http-string-parser": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/you21979/node-tcp-jsonrpc-client.git"
+  },
+  "author": "Yuki Akiyama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/you21979/node-tcp-jsonrpc-client/issues"
+  },
+  "homepage": "https://github.com/you21979/node-tcp-jsonrpc-client#readme"
+}
